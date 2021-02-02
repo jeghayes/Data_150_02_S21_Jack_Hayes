@@ -1,2 +1,5 @@
-# Data_150_Example
-Big data for development
+# Data_150_Example-Jack-Hayes
+
+## informal responses
+
+1. [Blumenstock Response](...)
