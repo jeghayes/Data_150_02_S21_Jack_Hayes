@@ -1,8 +1,8 @@
-# Data_150_Example-Jack-Hayes
+# My Data / COLL 150 Index of Semester Work
 
-## informal responses
+## Informal Responses
 
 1. [Blumenstock Response](https://jeghayes.github.io/Data_150_Example/response1.html)
 
-1) Throughout the article “Don’t forget people in the use of big data for development”, Joshua Blumenstock presents a thesis about a “humbler data science”. The promise of a humbler data science is a key part of Blumentock’s thesis’s foundation. The promise explores the possibilities of governments’ abilities to utilize data science in order to improve public-health and responses to crises in a more focused and timely manner. Furthermore, Blumenstock lists some of the pitfalls of modern data science processes and ways forward from said pitfalls. The main pitfalls include unanticipated effects, lack of validation, biased algorithms, and a lack of regulation. These faults point out how the power to derive data is concentrated in the hands of a few and how it leads to the exclusion of people who understand the context and problems presented, resulting in an underrepresentation of the disadvantaged. The ways forward the author presents consists of validation, customization, and deepening of collaboration. New sources of data should compliment old ones instead of replacing them, and more automation of small, important tasks should be implemented into processes. Finally, people who understand the context and problems presented should be included in the projects.
-2) I also believe that “good intent” is not good enough in regards to the topic but I think fixing it is another problem on its own. Working hard for results that benefit the focused population in human development is of the utmost importance, but I think that some data scientists tend to be focused more on profits, and what they believe to be most beneficial often is not beneficial due to a lack of information. I hold a similar opinion on transparency in data science, where I believe that it would be beneficial for both sides to be transparent, but I think that goal is virtually unachievable. Regarding the balancing act, I agree that it can become difficult. I think that nothing is truly in this field and that there will always be a compromise of some sort on one side.
+## Formal Exercises
+1. 
