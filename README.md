@@ -2,7 +2,7 @@
 
 ## Informal Responses
 
-1. [Blumenstock Response](https://jeghayes.github.io/Data_150_Example/response1.html)
+1. [Blumenstock Response](https://jeghayes.github.io/Data_150_Example/Blumenstock.html)
 
 ## Formal Exercises
 1. 
