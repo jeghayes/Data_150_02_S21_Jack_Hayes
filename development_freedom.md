@@ -1,23 +1,23 @@
 # Response Questions:
-#### 1)What is development?
+#### 1) What is development?
 Amartya Sen defines development as a process of expanding the real freedoms that humans enjoy. I believe that development is a sort of ecosystem of freedoms that compliment each other and work together to elevate the wellbeing of a population. Some of the most important freedoms include the freedom to enter markets and freedom of speech. Development depends on things such as social and economic arrangements as well as political and civil rights. Other aspects like industrialization, technological process, and social modernization are also key to development, assisting in overcoming famine, tyranny, poverty, and many other repressive sources of unfreedom.
 
-#### 2)Is this an expansive or narrower view of development?
+#### 2) Is this an expansive or narrower view of development?
 This definition of development is a more expansive view of development. The author emphasizes that a broader approach permits simultaneous appreciation of vital roles in the process of development, such as opportunities of open dialogue and debate, governments and local authorities, political parties and other civic institutions, educational arrangements, and including markets and market-related organizations. Shared norms play a big role in influencing things such as gender inequities, the treatment of the environment, etc. Even though some countries with a high GNP prosper economically, the life expectancy of some wealthier countries tend to be shorter than expected because they focus almost strictly on one freedom.
 
-#### 3)What are some of the sources of unfreedoms development that require being removed?
+#### 3) What are some of the sources of unfreedoms development that require being removed?
 The author explores the fact that development requires the removal of major sources of unfreedom: poverty, tyranny, poor economic opportunities, systematic social deprivation, neglect of public facilities, and intolerance or overactivity of repressive states. The author goes into further detail about how unfreedoms can poorly affect other, seemingly unrelated, freedoms. Sen goes in depth about how economic freedom has a basic role in social living, exploring the tragic story of Kader Mia. Mia was forced to go into dangerous, off limits territory to find work to provide for his family and was stabbed in said territory. Economic unfreedom, in the form of extreme poverty, often makes one helpless in the violation of other kinds of freedom.
 
-#### 4)Why is free and sustainable agency a major engine of development?
+#### 4) Why is free and sustainable agency a major engine of development?
 There are two distinct reasons freedom is central to the process of development, the evaluative reason and the effectiveness reason. The effectiveness reason for freedom is the achievement of development dependent on the free agency of people. Free agency itself is a constitutive part of development that also contributes to free agencies of other kinds. The exercises of people’s freedoms plays an important role in the constitutive connection of what people can positively achieve through economic opportunities, social powers, political liberties, basic education, the enabling conditions of good health, and the encouragement and cultivation of initiatives. For example, when people have a broad access to diverse jobs, it increases the opportunity of individual development.
 
-#### 5)What does Amartya Sen say about being generically against markets? 
+#### 5) What does Amartya Sen say about being generically against markets? 
 Sen states that to be generically against markets would be almost as odd as being generically against conversations of people. The freedom to exchange things such as words, gifts, and goods are simply a part of the way human beings interact and live in society. It has been widely acknowledged that the market mechanism contributes to high economic growth and to the overall economic process. Adam Smith himself noted that freedom of exchange and transaction is itself part and parcel of the basic liberties that people have reason to value.
 
-#### 6)What was the story of Kader Mia? What was the penalty of his economic unfreedom? 
+#### 6) What was the story of Kader Mia? What was the penalty of his economic unfreedom? 
 Kader Mia was a man who lived in Bangladesh during the communal riots which had great disputes between Hindus and Muslims. Mia was a Muslim daily laborer who was desperate to search for work, as his family had nothing to eat. Mia went into a territory he knew to be hostile towards muslims in search of work so he could provide for his family. Mia was knifed in the back and died later in the same day because of his desperation to provide for his family. This tragic story proves that economic unfreedom can lead to social unfreedom, and that social and political unfreedom also breeds economic unfreedom.  
 
-#### 7)Who were Condorcet and Malthus? What were their primary arguments regarding development and fertility?
+#### 7) Who were Condorcet and Malthus? What were their primary arguments regarding development and fertility?
 Condorcet was an eighteenth-century rationalist who expected fertility rates to go down with ‘the progress of reason, expecting that greater security, more education, and more freedom would restrain population growth. Malthus, on the other hand, was a influential economist who argued that “there is no reason whatever to suppose that anything beside the difficulty of procuring in adequate plenty the necessities of life should either indispose this greater number of persons to marry early, or disable them from rearing in health the largest families.” This debate of reasoned freedom and economic compulsion is still debated today and can be explored in the Lee theory.
 
 #### 8)  Who was Maitreyee? What did she wonder about? What was her question, and why was it relevant?  What was the perspective Aristotle provided regarding immortality and wealth?
