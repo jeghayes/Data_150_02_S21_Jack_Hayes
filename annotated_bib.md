@@ -3,9 +3,9 @@
 
 
 
-Saito, Y. (2014). Progress or repetition? gender perspectives in disaster management in japan. 
-    Disaster Prevention and Management, 23(2), 98-111.
-    doi:http://dx.doi.org.proxy.wm.edu/10.1108/DPM-08-2013-0134
+#### Saito, Y. (2014). Progress or repetition? gender perspectives in disaster management in japan. 
+####    Disaster Prevention and Management, 23(2), 98-111.
+####    doi:http://dx.doi.org.proxy.wm.edu/10.1108/DPM-08-2013-0134
     
     
 This excerpt explores some of the struggles Japan has faced with social freedoms, specifically gender-related issues, after natural disasters. Following disasters such as the Kobe Earthquake and Great East Japan Earthquake, gender perspectives were not just overlooked, but reinforced in Japanese society. Saito mainly looks at geospatial data relating to the disaster prevention and evacuation management of Japan. He dives into the great contributions of neighborhood disaster prevention organisations and other association leaders’ roles in disaster management. 
@@ -18,11 +18,8 @@ The author’s goal is to plan Japan’s future for combating natural disasters 
  
  
  
- 
- 
- 
-Ogata T. (2016). Disaster Management in Japan. Japan Medical Association journal : JMAJ, 59(1),
-    27–30.
+#### Ogata T. (2016). Disaster Management in Japan. Japan Medical Association journal : JMAJ, 59(1),
+####    27–30.
     
     
 The article “Disaster Management in Japan” by Toshinori Ogata encompasses a broader look at the processes and data behind Japan’s disaster management. One can relate the protective security freedoms presented in the writing to human development. The author goes in depth about Japan’s use of geospatial data regarding earthquakes in specific regions and how said data can be used to predict damages and help outline countermeasures against such disasters. The fascinating and methodical actions of Japan’s disaster response management is a model of what disaster response methods should look like in terms of efficiency. 
