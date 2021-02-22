@@ -17,6 +17,10 @@ The author’s goal is to plan Japan’s future for combating natural disasters 
  
  
  
+ 
+ 
+ 
+ 
 Ogata T. (2016). Disaster Management in Japan. Japan Medical Association journal : JMAJ, 59(1),
     27–30.
     
