@@ -1,5 +1,7 @@
 # Assignment 1 Annotated Bibliography
 
+Word Count: 1663
+
 ##### Voigt, Stefan, Giulio-Tonolo, Fabio, Lyons, Josh, Kučera, Jan, Jones, Brenda, Schneiderhan, Tobias, . . . Guha-Sapir, Debarati. (2016). Global trends in satellite-based emergency mapping. Science (American Association for the Advancement of Science), 353(6296), 247-252.
 
 The article “Global Trends in Satellite-based Emergency Mapping” takes a deep look into the importance of satellite geospatial data collection relating to environmental impact assessment. Although this source is broader and does not focus strictly on Japan, it provides the reader with a great understanding of how geospatial data science methods are used to analyze environmental crises and disasters. This is incredibly important to my research regarding disaster management in Japan relating to social development, as the article answers how the data is acquired and analyzed so said data can be used to promote human development. 
