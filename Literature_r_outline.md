@@ -1,7 +1,7 @@
- # Literature Review Outline
+# Literature Review Outline
  
  
- ### Intro
+### Intro
 Introduce geospatial data, specifically satellite-based emergency mapping and how it relates to environmental impact assessment
 
 Flow into disaster management and how places like Japan find this data incredibly useful due to the high rates of earthquakes
