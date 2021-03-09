@@ -1,6 +1,6 @@
 # Assignment 1 Annotated Bibliography
 
-Word Count: 1663
+Word Count: 2889
 
 ##### Voigt, Stefan, Giulio-Tonolo, Fabio, Lyons, Josh, Kučera, Jan, Jones, Brenda, Schneiderhan, Tobias, . . . Guha-Sapir, Debarati. (2016). Global trends in satellite-based emergency mapping. Science (American Association for the Advancement of Science), 353(6296), 247-252.
 
