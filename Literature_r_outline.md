@@ -1,8 +1,8 @@
 # Literature Review Outline
 
 ## Title?
-                                        Geospatial Data within Environmental Impact Assessment and Human Development: 
-                              How Japan’s Disaster Management System Negatively Affects Gender Perspectives in Japanese Society
+                          Geospatial Data within Environmental Impact Assessment and Human Development: 
+                How Japan’s Disaster Management System Negatively Affects Gender Perspectives in Japanese Society
 
  
 ### Intro
