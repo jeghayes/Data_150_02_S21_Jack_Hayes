@@ -1,5 +1,9 @@
 # Literature Review Outline
- 
+
+## Title?
+                                        Geospatial Data within Environmental Impact Assessment and Human Development: 
+                              How Japan’s Disaster Management System Negatively Affects Gender Perspectives in Japanese Society
+
  
 ### Intro
 Introduce geospatial data, specifically satellite-based emergency mapping and how it relates to environmental impact assessment
@@ -7,7 +11,7 @@ Introduce geospatial data, specifically satellite-based emergency mapping and ho
 Flow into disaster management and how places like Japan find this data incredibly useful due to the high rates of earthquakes
 
 
-### Body
+### Body (Geospatial data and Japan’s disaster managements system)
 Talk about japan’s disaster management system (source 2)
 
 Combine it with the small article about RS tech connecting it with geospatial data
@@ -15,13 +19,13 @@ Combine it with the small article about RS tech connecting it with geospatial da
 Flow into research about how areas affected the most faced a lot of consequences with development and how the disaster management process can still be improved (Mention the environmental factors which bring about social development)
 
 
-### Body
+### Body (Post-disaster social capital in Japan)
 Give and example about social capital and relocation affecting development (source 3)
 
 Relate the relocation and post-disaster organizations and plans to gender perspectives (Talk about how the geographical relocation is easier to predict thus leading to a better prediction of social capital)
 
 
-### Body
+### Body (Gender perspectives in Japan, specifically relating to disaster management)
 Talk about source 4 and give detailed examples from the photovoice research project (Psychological factors are nearly impossible to predict, emergent property that does not necessarily link to an individual specific agent)
 
 Start connecting the gender inequalities with human development and Amartya Sen
