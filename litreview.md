@@ -11,16 +11,7 @@
 ####                                                                       Abstract
 Gender perspectives harming human development in various nations has been a problem in the world seemingly since the beginning of time. Gender inequalities and inequities, and social unfreedoms in general, often lead to conflict, underproduction, and other complications within a population. This literature review breaks down the structure and tools inside Japan’s disaster management system, and explains how the system negatively affects Japan’s human development process relating to social unfreedoms, especially gender inequalities. The goal of this paper is to understand how geospatial data science methods, particularly satellite-based emergency mapping, are used within the environmental impact assessment field in Japan, and how the collection and analysis of data leads to a better comprehension of social development in the nation during times of disaster. After piecing back together the information and data concerning Japan’s pre and post-disaster management systems with more progressive ideas and arguments, this paper hopes to disseminate said ideas and arguments and spark a realization of needed social change in Japanese society.
 
-
-
-
-
-
-
-
-
-
-
+#### Literature Review
 Today, it is not uncommon to see the battle against gender inequalities when you open a newspaper. There are countless women’s rights groups and activists using their voices to fight these evils every day on local levels. Surprisingly, a recent surge in data analytics, specifically geospatial data analysis, provides large-scale assessments of social issues around the globe. Data scientists are now able to take a deeper look into human development patterns regarding social injustices like gender perspectives on a much greater scale. 
 
 Geospatial datasets are becoming more and more prevalent in today’s world of Big Data. These datasets have proven to be incredibly useful concerning major issues such as urbanization, transportation modeling, and environmental impact assessment. Regarding environmental impact assessment specifically, geospatial data is crucial for providing future plans and ways forward. This is important because of the nonlinear, hard-to-predict nature of events like natural disasters. Applied statistical data science methods like satellite-based emergency mapping allow for a quick collection, analysis, and dissemination of data after a natural disaster within a day or two. As one might expect, this methodology is tremendously beneficial in countries like Japan, which seems to have a never-ending supply of earthquakes. Data scientists who have applied these methods when investigating post-disaster Japan found significant information relating not just to the geography and infrastructure of post-disaster Japan, but interesting information with respect to human development in the realm of social freedoms as well. The geographical aspect of geospatial data makes it easier to predict these non quantifiable measures such as social freedoms.
