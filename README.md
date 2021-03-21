@@ -9,3 +9,4 @@
 
 ## Formal Exercises
 1. [Annotated Bibliography](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/annotated_bib.html)
+1. [Literature Review](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/litreview.html)
