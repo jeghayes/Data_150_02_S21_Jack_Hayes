@@ -7,7 +7,7 @@
 ###                                        How Japan’s Disaster Management System Negatively Affects Social Freedoms
 
 
-Word count: 2012
+Word count: 2289
 
 #### Abstract
 Gender perspectives harming human development in various nations has always been a problem in the world. Gender inequalities and inequities, and social unfreedoms in general, often lead to conflict, underproduction, and other complications within a population. This literature review breaks down the structure and tools inside Japan’s disaster management system, and explains how the system negatively affects Japan’s human development process relating to social unfreedoms, especially gender inequalities. The goal of this paper is to understand how geospatial data science methods, particularly satellite-based emergency mapping, are used within the environmental impact assessment field in Japan, and how the collection and analysis of data leads to a better comprehension of social development in the nation during times of disaster. After piecing back together the information and data concerning Japan’s pre and post-disaster management systems with more progressive ideas and arguments, this paper hopes to disseminate said ideas and arguments and spark a realization of needed social change in Japanese society.
