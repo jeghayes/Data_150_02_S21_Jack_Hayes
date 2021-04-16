@@ -1,5 +1,7 @@
 # Assignment 3 Draft
 
+Word Count: ~1400
+
 #### Introduction
 Gender inequalities and inequities have been affecting the world seemingly since the beginning of time. Especially with a recent surge in social justice, the battle against gender perspectives around the globe has gained more and more attention. However, many countries, like Japan, are still struggling to combat gender perspectives. One of the main sources of these gender-related issues in Japanese society is not as apparent as one would think, however. Data concerning the reinforcement of gender perspectives can be seen in almost every natural disaster in Japan’s recent history. For example, women have a significantly higher mortality rate than men in Japan and have to constantly voice their grievances about being unheard in their communities. This problem is extremely prevalent during the almost never-ending process of reconstruction in Japan. For example, the Great East Japan Earthquake occurred in 2011, and the social discord caused by the earthquake is still felt today, as reconstruction continues. The social cohesion of a population leads to a better educated, economically flourishing, happy society, but social cohesion cannot be achieved without the recognition and solving of gender inequities. 
 
