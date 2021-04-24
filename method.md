@@ -1,4 +1,4 @@
-# Assignment 3 Draft
+# Assignment 3
 
 Word Count: ~1400
 
