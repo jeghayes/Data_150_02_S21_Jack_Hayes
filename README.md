@@ -6,8 +6,8 @@
 2. [Development as Freedom Responses](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/development_freedom.html)
 3. [Literature Review Outline](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/Literature_r_outline.html)
 3. [Barder Podcast Response Questions](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/podcast.html)
-4. [Assignment 3 Draft](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/method.html)
 
 ## Formal Exercises
 1. [Annotated Bibliography](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/annotated_bib.html)
-1. [Literature Review](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/litreview.html)
+2. [Literature Review](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/litreview.html)
+3. [Assignment 3](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/method.html)
