@@ -11,3 +11,4 @@
 1. [Annotated Bibliography](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/annotated_bib.html)
 2. [Literature Review](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/litreview.html)
 3. [Assignment 3](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/method.html)
+4. [Assignment 4b](https://jeghayes.github.io/Data_150_02_S21_Jack_Hayes/r_plan.html)
